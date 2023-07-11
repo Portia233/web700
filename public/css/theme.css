@@ -8,7 +8,7 @@ box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 }
 
 .navbar-light .navbar-brand{
-    font-family: 'Pacifico', cursive;
+    font-family: 'math', cursive;
     text-shadow: 1px 1px 2px gray;
     font-size:26px;
     color:#6f394f;
@@ -34,14 +34,14 @@ body, html{ /* from: https://coderwall.com/p/ape0jg/full-page-gradient-backgroun
 }
 
 .btn-primary:hover{
-    background-color: #3e37d1;
-    border-color: #161377;
+    background-color: #d1377f;
+    border-color: #771348;
 }
 
 /* table style */
 
 table.table tr:nth-child(odd) td{
-    background-color: #d9d8eb
+    background-color: #ebd8e3
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 a{
-    color: #484587;
+    color: #87456d;
 }
 
 a:hover{
