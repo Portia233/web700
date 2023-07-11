@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Pacifico&display=swap');
 
 .bg-light{
-    background-color: #ebd8e6 !important; 
+    background-color: #dcd8eb !important; 
     -webkit-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 }
 
 .navbar-light .navbar-brand{
-    font-family: 'math', cursive;
+    font-family: 'fantasy;', math;
     text-shadow: 1px 1px 2px gray;
     font-size:26px;
     color:#6f394f;
 }
 
 a.nav-link{
-    font-family: 'Lobster', cursive;
+    font-family: 'fantasy;', math;
 }
 
 body, html{ /* from: https://coderwall.com/p/ape0jg/full-page-gradient-background
@@ -45,7 +45,7 @@ table.table tr:nth-child(odd) td{
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Lobster', cursive;
+    font-family: 'fantasy;', math;
     text-shadow: 1px 1px 2px gray;
 
 }
@@ -65,7 +65,7 @@ legend{
     padding-top:20px;
     padding-bottom: 20px;
 
-    font-family: 'Lobster', cursive;
+    font-family: 'fantasy', math;
     
 }
 
