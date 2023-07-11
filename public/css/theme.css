@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Pacifico&display=swap');
 
 .bg-light{
-    background-color: #d9d8eb !important; 
+    background-color: #ebd8e6 !important; 
     -webkit-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
 box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
@@ -11,7 +11,7 @@ box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.75);
     font-family: 'Pacifico', cursive;
     text-shadow: 1px 1px 2px gray;
     font-size:26px;
-    color:#3b396f;
+    color:#6f394f;
 }
 
 a.nav-link{
@@ -30,12 +30,12 @@ body, html{ /* from: https://coderwall.com/p/ape0jg/full-page-gradient-backgroun
 
 .btn-primary{
     background-color: #6f3951;
-    border-color: #3b396f;
+    border-color: #6f3964;
 }
 
 .btn-primary:hover{
-    background-color: #7976b9;
-    border-color: #8381be;
+    background-color: #3e37d1;
+    border-color: #161377;
 }
 
 /* table style */
